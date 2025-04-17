@@ -1,2 +1,2 @@
-# Protect The Reefs
-Repository for Creating own CSS website
+# Protect The Reefs fictional organization
+Repository for Creating my own CSS website
